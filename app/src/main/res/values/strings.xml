@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ScavengerHunt</string>
+    <string name="insufficient_permissions">Insufficient permissions.</string>
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+    <string name="settings">Settings</string>
+
+    <!-- Error strings -->
+    <string name="geofence_not_available">Geofence service is not available now</string>
+    <string name="geofence_too_many_geofences">Your app has registered too many geofences</string>
+    <string name="geofence_too_many_pending_intents">
+        You have provided too many PendingIntents to the addGeofences() call
+    </string>
+    <string name="unknown_geofence_error">
+        Unknown error: the Geofence service is not available now
+    </string>
+    <string name="geofence_transition_invalid_type">
+        Geofence transition error: invalid transition type %1$d
+    </string>
+
+    <!-- Transition type strings -->
+    <string name="geofence_transition_entered">Entered</string>
+    <string name="geofence_transition_exited">Exited</string>
+    <string name="geofence_transition_dwell">Dwelled</string>
+    <string name="unknown_geofence_transition">Unknown Transition</string>
+    <string name="title_activity_first_location">FirstLocationActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="dixon_gallery">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue lacus viverra vitae congue eu consequat ac. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Maecenas volutpat blandit aliquam etiam. Placerat orci nulla pellentesque dignissim enim sit amet venenatis urna. Nulla pharetra diam sit amet nisl suscipit adipiscing bibendum. Turpis massa sed elementum tempus egestas sed sed risus. Consequat nisl vel pretium lectus quam id leo in. Sed arcu non odio euismod. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus. Lectus proin nibh nisl condimentum id venenatis a. Mi tempus imperdiet nulla malesuada pellentesque elit eget. Libero justo laoreet sit amet cursus sit amet dictum. Aliquet bibendum enim facilisis gravida neque convallis. Pulvinar sapien et ligula ullamcorper malesuada proin.
+    </string>
+
+    <string name="lynnfield_place">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue lacus viverra vitae congue eu consequat ac. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Maecenas volutpat blandit aliquam etiam. Placerat orci nulla pellentesque dignissim enim sit amet venenatis urna. Nulla pharetra diam sit amet nisl suscipit adipiscing bibendum. Turpis massa sed elementum tempus egestas sed sed risus. Consequat nisl vel pretium lectus quam id leo in. Sed arcu non odio euismod. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus. Lectus proin nibh nisl condimentum id venenatis a. Mi tempus imperdiet nulla malesuada pellentesque elit eget. Libero justo laoreet sit amet cursus sit amet dictum. Aliquet bibendum enim facilisis gravida neque convallis. Pulvinar sapien et ligula ullamcorper malesuada proin.
+    </string>
+
+    <string name="minglewood_hall">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue lacus viverra vitae congue eu consequat ac. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Maecenas volutpat blandit aliquam etiam. Placerat orci nulla pellentesque dignissim enim sit amet venenatis urna. Nulla pharetra diam sit amet nisl suscipit adipiscing bibendum. Turpis massa sed elementum tempus egestas sed sed risus. Consequat nisl vel pretium lectus quam id leo in. Sed arcu non odio euismod. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus. Lectus proin nibh nisl condimentum id venenatis a. Mi tempus imperdiet nulla malesuada pellentesque elit eget. Libero justo laoreet sit amet cursus sit amet dictum. Aliquet bibendum enim facilisis gravida neque convallis. Pulvinar sapien et ligula ullamcorper malesuada proin.
+    </string>
+
+    <string name="harbor_town">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue lacus viverra vitae congue eu consequat ac. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Maecenas volutpat blandit aliquam etiam. Placerat orci nulla pellentesque dignissim enim sit amet venenatis urna. Nulla pharetra diam sit amet nisl suscipit adipiscing bibendum. Turpis massa sed elementum tempus egestas sed sed risus. Consequat nisl vel pretium lectus quam id leo in. Sed arcu non odio euismod. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus. Lectus proin nibh nisl condimentum id venenatis a. Mi tempus imperdiet nulla malesuada pellentesque elit eget. Libero justo laoreet sit amet cursus sit amet dictum. Aliquet bibendum enim facilisis gravida neque convallis. Pulvinar sapien et ligula ullamcorper malesuada proin.
+    </string>
+</resources>
